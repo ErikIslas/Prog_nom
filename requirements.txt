@@ -1,0 +1,12 @@
+numpy==1.26.4
+sentence-transformers==3.0.1
+mysql-connector-python==9.0.0
+python-dotenv==1.0.1
+pymupdf==1.24.9
+# API
+fastapi==0.112.2
+uvicorn[standard]==0.30.6
+pydantic==2.8.2
+# APP
+streamlit
+requests
